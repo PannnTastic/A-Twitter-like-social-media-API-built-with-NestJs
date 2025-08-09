@@ -52,7 +52,7 @@ Before running this application, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/PannnTastic/A-Twitter-like-social-media-API-built-with-NestJs.git>
    cd procademy
    ```
 
@@ -269,7 +269,7 @@ npm run test:watch
 
 ## 👥 Authors
 
-- **PannnTastic** - *Initial work* - [Your GitHub](https://github.com/PannnTastic)
+- **PannnTastic** - *Initial work* - [PannnTastic](https://github.com/PannnTastic)
 
 ## 🙏 Acknowledgments
 
